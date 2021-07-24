@@ -1,7 +1,6 @@
 # showroom_clone
 
-A new Flutter application.
-
+Showroom Live (https://www.showroom-live.com/) clone app built using Flutter (Work In Progress)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
